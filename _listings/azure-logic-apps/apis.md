@@ -13,9 +13,9 @@ tags:
 - Stack Network
 - Microsoft
 - iPaaS
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/partners/master/_listings/azure-logic-apps/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/partners/master/_listings/azure-logic-apps/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Azure Logic Apps API
@@ -29,7 +29,7 @@ apis:
   tags: Partners
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/partners/master/_listings/azure-logic-apps/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-logic-integrationaccounts-integrationaccountname-partners-partnername-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/partners/master/_listings/azure-logic-apps/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-logic-integrationaccounts-integrationaccountname-partners-get.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/logic-apps/
