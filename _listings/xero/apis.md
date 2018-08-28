@@ -1,30 +1,22 @@
 ---
 name: Xero
-description: Xero provides online accounting software and services for small and medium
-  businesses. It includes a full accrual accounting system with a cashbook, automated
-  daily bank feeds, invoicing, debtors, creditors, sales tax and reporting. Xeros
-  Software as a Service business model where software is hosted on the Internet is
-  an innovative means of supplying solutions to large fragmented markets such as small
-  businesses. Xero releases new features approximately every month. Additions and
-  extensions to functionality are developed in response to the needs of new customers
-  and new industries.
-image: https://avatars0.githubusercontent.com/u/242786?v=4
+x-slug: xero
+description: Xero is the QuickBooks alternative. Use Xero accounting software to manage
+  invoicing, bank reconciliation, bookkeeping & more. Start a free trial today!
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/279-xero.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Partners
-- Invoicing
-- Finance
-- Finance
-- Accounting
-- Accounting
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/partners/master/_listings/xero/apis.yaml
+x-alexaRank: "2158"
+tags: Partners
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/partners/master/_listings/xero/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-api-gallery
+  url: http://wordnik.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://xero.stack.network
 - type: x-base
   url: https://api.xero.com
 - type: x-blog
@@ -37,8 +29,28 @@ x-common:
   url: http://feeds.feedburner.com/xerolive
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/xero
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/xero
 - type: x-developer
   url: http://developer.xero.com/
+- type: x-email
+  url: support@xero.com
+- type: x-email
+  url: sales@xero.com
+- type: x-email
+  url: careers@xero.com
+- type: x-email
+  url: privacy@xero.com
+- type: x-email
+  url: phishing@xero.com
+- type: x-email
+  url: press@xero.com
+- type: x-email
+  url: AUpress@xero.com
+- type: x-email
+  url: UKpress@xero.com
+- type: x-email
+  url: USpress@xero.com
 - type: x-github
   url: https://github.com/XeroAPI
 - type: x-partners
@@ -49,6 +61,8 @@ x-common:
   url: https://twitter.com/xero
 - type: x-website
   url: http://www.xero.com/
+- type: x-website
+  url: http://xero.com
 include: []
 maintainers:
 - FN: Kin Lane

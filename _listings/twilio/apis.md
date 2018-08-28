@@ -1,52 +1,26 @@
 ---
 name: Twilio
-description: Twilio, the cloud communications company, providing a telephony infrastructure
-  web service in the cloud, allowing web developers to integrate phone calls, text
-  messages and IP voice communications into their web, mobile and traditional phone
-  applications.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
+x-slug: twilio
+description: Cloud communications platform for building SMS, Voice & Messaging applications
+  on an API built for global scale. Get started with a free trial.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
 x-kinRank: "10"
-x-alexaRank: ""
-tags:
-- Voice
-- Voice
-- Telco
-- Stack Network
-- Stack
-- SMS API
-- SMS
-- Service Level Agreement
-- Reliability
-- Plans
-- Partners
-- MMS API
-- MMS
-- Messaging
-- Messaging
-- Getting Started
-- API LIfeycle
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/partners/master/_listings/twilio/apis.yaml
+x-alexaRank: "9195"
+tags: Partners
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/partners/master/_listings/twilio/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Twilio
-  description: Twilio, the cloud communications company, providing a telephony infrastructure
-    web service in the cloud, allowing web developers to integrate phone calls, text
-    messages and IP voice communications into their web, mobile and traditional phone
-    applications
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
-  humanURL: ""
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Partners
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/partners/master/_listings/twilio/accounts-accountsid-usage-triggers-post.md
+apis: []
 x-common:
-- type: x-net-library
+- type: x--net-library
   url: https://www.twilio.com/docs/csharp/install
 - type: x-acceptable-use-policy
   url: https://www.twilio.com/legal/aup
+- type: x-api-gallery
+  url: http://tvmaze.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://twilio.stack.network
 - type: x-application-gallery
   url: https://www.twilio.com/showcase
 - type: x-base-url
@@ -61,8 +35,20 @@ x-common:
   url: https://www.twilio.com/help/contact
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/twilio
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/twilio
 - type: x-documentation
   url: https://www.twilio.com/docs/api
+- type: x-email
+  url: help@twilio.com
+- type: x-email
+  url: privacy@twilio.com
+- type: x-email
+  url: legalnotices@twilio.com
+- type: x-email
+  url: trademark@twilio.com
+- type: x-email
+  url: kyleky@twilio.com
 - type: x-getting-started
   url: https://www.twilio.com/docs/quickstart
 - type: x-github
@@ -71,7 +57,7 @@ x-common:
   url: https://www.twilio.com/docs/howto
 - type: x-java-library
   url: https://www.twilio.com/docs/java/install
-- type: x-nodejs-library
+- type: x-node-js-library
   url: https://www.twilio.com/docs/node/install
 - type: x-paid-support
   url: https://www.twilio.com/premium-support#features
@@ -80,12 +66,6 @@ x-common:
 - type: x-php-library
   url: https://www.twilio.com/docs/php/install
 - type: x-pricing
-  url: https://www.twilio.com/pricing
-- type: x-pricing--show-2
-  url: https://www.twilio.com/pricing
-- type: x-pricing--show-3
-  url: https://www.twilio.com/pricing
-- type: x-pricing--show-4
   url: https://www.twilio.com/pricing
 - type: x-privacy
   url: https://www.twilio.com/legal/privacy
@@ -117,6 +97,10 @@ x-common:
   url: https://twitter.com/twilio
 - type: x-website
   url: http://www.twilio.com
+- type: x-website
+  url: http://twilio.com
+- type: x-website
+  url: http://stackoverflow.com
 include: []
 maintainers:
 - FN: Kin Lane

@@ -1,27 +1,24 @@
 ---
 name: IBM Watson
+x-slug: ibm-watson
 description: Meet IBM Watson, a cognitive system that enables a new partnership between
   people and computers that enhances and scales human expertise. Watson has been learning
   the language of professions and is trained by experts to work across many different
   industries.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ibm-watson-logo.png
 x-kinRank: "9"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Stack
-- Partners
-- Machine Learning
-- Machine Learning
-- Getting Started
-- API LIfeycle
-- AI
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/partners/master/_listings/ibm-watson/apis.yaml
+x-alexaRank: "0"
+tags: Partners
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/partners/master/_listings/ibm-watson/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-api-gallery
+  url: http://ibm.financial.crimes.insight.for.insurance.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://ibm.watson.stack.network
 - type: x-application-gallery
   url: https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/gallery.html
 - type: x-blog

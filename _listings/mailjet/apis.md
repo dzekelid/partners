@@ -1,32 +1,24 @@
 ---
 name: Mailjet
-description: Mailjet is an all-in-one solution to send, track and deliver both marketing
-  and transactional emails, providing infrastructure for scaling and optimizing email
-  deliverability. Mailjet can be accessed either via an easy-to-use online drag-and-drop
-  interface or via APIs that allow developers to integrate the ability to send, receive,
-  store emails, and track on delivery, organize and track on operations. Mailjet provides
-  a free trial for developers, and then tiered, unit based pricing for API services
-  after that.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/843_logo.jpg
+x-slug: mailjet
+description: Streamline your emailing and boost your sales with Mailjet. We serve
+  all your email and SMS needs with one simple and powerful solution. You can try
+  it now with 6000 emails/mo absolutely free. Sign up now, or read more about how
+  we can help your busine...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/843-mailjet.jpg
 x-kinRank: "9"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Partners
-- Metrics
-- Messaging
-- Marketing
-- Getting Started
-- Email API
-- Email
-- Cloud
-- Campaign
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/partners/master/_listings/mailjet/apis.yaml
+x-alexaRank: "20242"
+tags: Partners
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/partners/master/_listings/mailjet/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-api-gallery
+  url: http://mailgun.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://mailjet.stack.network
 - type: x-base
   url: https://api.mailjet.com/
 - type: x-blog
@@ -35,10 +27,18 @@ x-common:
   url: http://blog.mailjet.com/rss
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/mailjet
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mailjet
 - type: x-developer
   url: http://dev.mailjet.com/
 - type: x-documentation
   url: http://www.mailjet.com/support
+- type: x-email
+  url: abuse@mailjet.com
+- type: x-email
+  url: privacy@mailjet.com
+- type: x-email
+  url: dfayed@mailjet.com
 - type: x-getting-started
   url: http://www.mailjet.com/signup
 - type: x-github
@@ -51,7 +51,7 @@ x-common:
   url: http://www.mailjet.com/assets
 - type: x-magento-pdk
   url: https://github.com/mailjet/magento-mailjet-plugin-apiv3
-- type: x-nodejs-sdk
+- type: x-node-js-sdk
   url: https://github.com/mailjet/node-mailjet
 - type: x-partners
   url: http://www.mailjet.com/partners
@@ -69,6 +69,8 @@ x-common:
   url: http://dev.mailjet.com/terms_of_service
 - type: x-twitter
   url: https://twitter.com/mailjet
+- type: x-website
+  url: http://mailjet.com
 - type: x-website
   url: http://www.mailjet.com
 - type: x-white-papers

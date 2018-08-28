@@ -1,35 +1,28 @@
 ---
 name: Twitter
-description: Twitter is a global real-time communications platform with 400 million
-  monthly visitors to twitter.com, more than 200 million monthly active users around
-  the world.
-image: https://avatars1.githubusercontent.com/u/50278?v=4
-x-kinRank: "10"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Stack
-- Social Network
-- Social API
-- Social
-- Social
-- Partners
-- My API Stack
-- Indie EdTech Data Jam
-- Imports
-- API LIfeycle
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/partners/master/_listings/twitter/apis.yaml
+x-slug: twitter
+description: From breaking news and entertainment to sports and politics, get the
+  full story with all the live commentary.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twitter-logo.png
+x-kinRank: "9"
+x-alexaRank: "12"
+tags: Partners
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/partners/master/_listings/twitter/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
-- type: x-net-library
+- type: x--net-library
   url: https://tweetinvi.codeplex.com/
 - type: x-advertising-development-kit
   url: https://docs.fabric.io/unity/mopub/overview.html
 - type: x-android-sdk
   url: https://docs.fabric.io/android/fabric/overview.html
+- type: x-api-gallery
+  url: http://twine.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://twitter.stack.network
 - type: x-apple-sdk
   url: https://docs.fabric.io/apple/fabric/overview.html
 - type: x-application-management
@@ -64,6 +57,8 @@ x-common:
   url: http://dev.twitter.com/rest/tools/console
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/twitter
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/twitter
 - type: x-css-control
   url: https://dev.twitter.com/web/overview/css
 - type: x-developer
@@ -74,6 +69,8 @@ x-common:
   url: https://blog.twitter.com/api/blog.rss?name=developer
 - type: x-documentation
   url: https://dev.twitter.com/overview/documentation
+- type: x-email
+  url: copyright@twitter.com
 - type: x-embeddable
   url: https://dev.twitter.com/web/overview
 - type: x-encryption
@@ -100,7 +97,7 @@ x-common:
   url: https://dev.twitter.com/overview/general/adding-international-support-to-your-apps
 - type: x-java-library
   url: https://www.github.com/twitter/hbc
-- type: x-nodejs-library
+- type: x-node-js-library
   url: https://github.com/BoyCook/TwitterJSClient
 - type: x-oembed
   url: https://dev.twitter.com/web/embedded-timelines/oembed
@@ -142,6 +139,8 @@ x-common:
   url: https://dev.twitter.com/overview/terms
 - type: x-transparency-report
   url: https://transparency.twitter.com/
+- type: x-twitter
+  url: https://twitter.com/Twitter
 - type: x-twitter
   url: https://twitter.com/twitterapi/
 - type: x-twitter
